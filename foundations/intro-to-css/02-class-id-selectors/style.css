@@ -1,0 +1,20 @@
+.pink-sub,
+.pink-dom {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.pink-dom {
+    font-size: 24px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
